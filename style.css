@@ -1,0 +1,72 @@
+
+
+h1{ color:#fffeff;}
+
+.headder {
+    background: #67a7a4;
+    padding: 5px;
+    height: 60px;
+
+}
+
+
+
+#banner {
+    height: 300px;
+    width: 100%;
+
+}
+
+
+
+.principal {
+    background: #67a7a4;
+    padding: 30px;
+    text-align: center;
+    color:#1a1517;
+    font-size: 20px;
+}
+
+
+#missao {
+    font-size: 20px
+}
+
+#bth {
+    font-size: 25px;
+    color: #1a1517
+}
+
+em strong {
+    font-size: 25px;
+    color: #1a1517
+}
+
+
+h2 {
+    color: #1a1517;
+    text-align: center
+}
+
+ul {
+    font-size: 30px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 12%;
+    color: #fffeff
+}
+
+.EQUIPE {
+    background: #061421;
+    padding: 20px;
+    
+}
+
+.imagem2 {
+    width: 30%;
+    border: 5px solid;
+    border-radius: 100px;
+    color: #fffeff;
+    height: 400px;
+
+}
