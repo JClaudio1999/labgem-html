@@ -1,6 +1,8 @@
 
 
-h1{ color:#fffeff;}
+h1{ color:#fffeff;
+position: relative;
+left: 10px;}
 
 .headder {
     background: #67a7a4;

@@ -1,0 +1,35 @@
+
+
+h1{ display: block;
+    font-size: 2em;
+position: relative;
+    font-weight: bold;
+    color:#fffeff;
+    top: 15px;
+    left: 20px;}
+
+.headder{  
+    background: #67a7a4;
+    padding: 5px;
+    height: 60px;}
+
+nav{position: absolute;
+    top: 29px;
+    right: 40px;
+    }
+nav li {
+
+    display: inline;
+    margin: 0 0 0 15px;
+    
+
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 18px;
+    text-decoration: none;
+
+}
