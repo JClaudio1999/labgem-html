@@ -1,17 +1,53 @@
 
-
-h1{ color:#fffeff;
-position: relative;
-left: 10px;}
-
-.headder {
-    background: #67a7a4;
-    padding: 5px;
-    height: 60px;
+*{margin: 0;
 
 }
 
 
+h1 {
+    color: #fffeff;
+
+}
+
+header {
+    background: #67a7a4;
+    padding: 5px 20px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+
+}
+
+header .menu {
+display: flex;
+margin-right: 0;
+
+}
+
+nav {
+    display: flex;
+    align-items: center;
+
+}
+
+nav li {
+    list-style: none;
+    margin: 0 0 0 15px;
+    font-size: 18px;
+
+
+
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 18px;
+    text-decoration: none;
+}
 
 #banner {
     height: 300px;
@@ -25,7 +61,7 @@ left: 10px;}
     background: #67a7a4;
     padding: 30px;
     text-align: center;
-    color:#1a1517;
+    color: #1a1517;
     font-size: 20px;
 }
 
@@ -61,7 +97,7 @@ ul {
 .EQUIPE {
     background: #061421;
     padding: 20px;
-    
+
 }
 
 .imagem2 {
