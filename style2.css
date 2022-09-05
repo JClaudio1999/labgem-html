@@ -1,3 +1,5 @@
+
+
 h1 {
 
     font-size: 2em;
@@ -17,22 +19,14 @@ h1 {
 }
 
 nav {
-    display: flex;
-    /* position: absolute;
-    top: 29px;
-    right: 40px; */
+    display: flex;  
 }
 
 nav li {
 
-
     margin: 0 0 0 15px;
 
 }
-
-
-
-
 
 nav a {
     text-transform: uppercase;
@@ -42,3 +36,12 @@ nav a {
     text-decoration: none;
 
 }
+
+.fotos{ margin: 0 auto;
+    width: 500px;
+  
+  }
+
+.fotos li{display: inline-block;
+}
+img{ }
